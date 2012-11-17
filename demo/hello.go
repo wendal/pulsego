@@ -1,6 +1,6 @@
 package main
 
-import "pulse"
+import "github.com/wendal/pulsego"
 import "fmt"
 
 func send(ch chan int, val int) {
